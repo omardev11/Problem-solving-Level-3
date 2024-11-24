@@ -1,0 +1,4 @@
+﻿  problem 48.cpp
+E:\apps\c++\programing advice course\solving problems level 3\problem 48\problem 48\problem 48.cpp(15,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\apps\c++\programing advice course\solving problems level 3\problem 48\problem 48\problem 48.cpp(88,11): warning C4101: 'list': unreferenced local variable
+  problem 48.vcxproj -> E:\apps\c++\programing advice course\solving problems level 3\problem 48\x64\Debug\problem 48.exe

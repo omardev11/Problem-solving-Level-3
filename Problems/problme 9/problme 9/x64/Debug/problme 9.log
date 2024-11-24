@@ -1,0 +1,7 @@
+﻿  problme 9.cpp
+E:\apps\c++\programing advice course\solving problems level 3\problme 9\problme 9\problme 9.cpp(35,6): warning C4101: 'array1': unreferenced local variable
+E:\apps\c++\programing advice course\solving problems level 3\problme 9\problme 9\problme 9.cpp(78,10): warning C4129: ' ': unrecognized character escape sequence
+E:\apps\c++\programing advice course\solving problems level 3\problme 9\problme 9\problme 9.cpp(80,10): warning C4129: ' ': unrecognized character escape sequence
+E:\apps\c++\programing advice course\solving problems level 3\problme 9\problme 9\problme 9.cpp(74,44): warning C4101: 'Matrixresult': unreferenced local variable
+E:\apps\c++\programing advice course\solving problems level 3\problme 9\problme 9\problme 9.cpp(74,6): warning C4101: 'Matrix2': unreferenced local variable
+  problme 9.vcxproj -> E:\apps\c++\programing advice course\solving problems level 3\problme 9\x64\Debug\problme 9.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\apps\\c\u002B\u002B\\programing advice course\\solving problems level 3\\Problems\\problem 47\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD47A38-32E1-4E0E-A9F8-B10FDE3EED84}|problem 47\\problem 47.vcxproj|E:\\apps\\c\u002B\u002B\\programing advice course\\solving problems level 3\\Problems\\problem 47\\problem 47\\problem 47.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CD47A38-32E1-4E0E-A9F8-B10FDE3EED84}|problem 47\\problem 47.vcxproj|solutionrelative:problem 47\\problem 47.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem 47.cpp",
+              "DocumentMoniker": "E:\\apps\\c\u002B\u002B\\programing advice course\\solving problems level 3\\Problems\\problem 47\\problem 47\\problem 47.cpp",
+              "RelativeDocumentMoniker": "problem 47\\problem 47.cpp",
+              "ToolTip": "E:\\apps\\c\u002B\u002B\\programing advice course\\solving problems level 3\\Problems\\problem 47\\problem 47\\problem 47.cpp",
+              "RelativeToolTip": "problem 47\\problem 47.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T11:01:38.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

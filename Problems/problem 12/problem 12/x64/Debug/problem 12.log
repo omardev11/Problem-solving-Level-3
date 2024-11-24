@@ -1,0 +1,6 @@
+﻿  problem 12.cpp
+E:\apps\c++\programing advice course\solving problems level 3\problem 12\problem 12\problem 12.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\apps\c++\programing advice course\solving problems level 3\problem 12\problem 12\functionsLevel3.h(26,7): warning C4101: 'array1': unreferenced local variable
+E:\apps\c++\programing advice course\solving problems level 3\problem 12\problem 12\problem 12.cpp(8,47): warning C4101: 'SumofMatrix1': unreferenced local variable
+E:\apps\c++\programing advice course\solving problems level 3\problem 12\problem 12\problem 12.cpp(8,61): warning C4101: 'SumofMatrix2': unreferenced local variable
+  problem 12.vcxproj -> E:\apps\c++\programing advice course\solving problems level 3\problem 12\x64\Debug\problem 12.exe

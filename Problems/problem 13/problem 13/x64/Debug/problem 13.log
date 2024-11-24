@@ -1,0 +1,4 @@
+﻿  problem 13.cpp
+E:\apps\c++\programing advice course\solving problems level 3\problem 13\problem 13\problem 13.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\apps\c++\programing advice course\solving problems level 3\problem 13\problem 13\functionsLevel3.h(26,7): warning C4101: 'array1': unreferenced local variable
+  problem 13.vcxproj -> E:\apps\c++\programing advice course\solving problems level 3\problem 13\x64\Debug\problem 13.exe
